@@ -16,7 +16,7 @@ defineProps({
     <a href="https://vuejs.org/guide/essentials/reactivity-fundamentals.html" target="_blank"
       >Documentation</a
     >
-    for help.
+    for hlp.
   </p>
 </template>
 
